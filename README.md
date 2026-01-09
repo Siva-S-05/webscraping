@@ -18,8 +18,8 @@ pandas==2.1.0
 
 Clone the repository:
 
-bashgit clone https://github.com/yourusername/ebay-web-scraper.git
-cd ebay-web-scraper
+bashgit clone https://github.com/Siva-S-05/webscraping.git
+cd web-scrapeing
 
 Install required packages:
 
